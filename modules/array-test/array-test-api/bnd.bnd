@@ -1,0 +1,6 @@
+Bundle-Name: array-test-api
+Bundle-SymbolicName: array.test.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	array.test.dto.v1_0,\
+	array.test.resource.v1_0

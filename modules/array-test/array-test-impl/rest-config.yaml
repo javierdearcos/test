@@ -1,0 +1,9 @@
+apiDir: "../array-test-api/src/main/java"
+apiPackagePath: "array.test"
+application:
+    baseURI: "/array-test"
+    className: "ArrayTestApplication"
+    name: "ArrayTest"
+author: "javierdearcos"
+generateBatch: false
+generateGraphQL: false
